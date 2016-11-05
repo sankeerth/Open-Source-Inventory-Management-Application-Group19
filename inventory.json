@@ -1,0 +1,602 @@
+[  
+   {  
+      "type":"Red Noses",
+      "quantity":79,
+      "costToRent":0.58,
+      "costToPurchase":11.6
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":29,
+      "costToRent":5,
+      "costToPurchase":100
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":1,
+      "costToRent":5.55,
+      "costToPurchase":111
+   },
+   {  
+      "type":"Fabric Markers",
+      "quantity":44,
+      "costToRent":1.7,
+      "costToPurchase":34
+   },
+   {  
+      "type":"Trifold Poster",
+      "quantity":40,
+      "costToRent":7.43,
+      "costToPurchase":148.6
+   },
+   {  
+      "type":"Hats",
+      "quantity":94,
+      "costToRent":5.53,
+      "costToPurchase":110.6
+   },
+   {  
+      "type":"Tennis Balls",
+      "quantity":76,
+      "costToRent":3.95,
+      "costToPurchase":79
+   },
+   {  
+      "type":"Diabolo",
+      "quantity":26,
+      "costToRent":5.66,
+      "costToPurchase":113.2
+   },
+   {  
+      "type":"Juggling Rings",
+      "quantity":94,
+      "costToRent":9.19,
+      "costToPurchase":183.8
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":54,
+      "costToRent":3.76,
+      "costToPurchase":75.2
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":9,
+      "costToRent":6.14,
+      "costToPurchase":122.8
+   },
+   {  
+      "type":"Glitter",
+      "quantity":97,
+      "costToRent":4.52,
+      "costToPurchase":90.4
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":36,
+      "costToRent":8.11,
+      "costToPurchase":162.2
+   },
+   {  
+      "type":"Trifold Poster",
+      "quantity":96,
+      "costToRent":2.58,
+      "costToPurchase":51.6
+   },
+   {  
+      "type":"Spinning Plates",
+      "quantity":59,
+      "costToRent":4.69,
+      "costToPurchase":93.8
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":0,
+      "costToRent":0.68,
+      "costToPurchase":13.6
+   },
+   {  
+      "type":"Spinning Plates",
+      "quantity":46,
+      "costToRent":5.14,
+      "costToPurchase":102.8
+   },
+   {  
+      "type":"Poster Board",
+      "quantity":97,
+      "costToRent":3.73,
+      "costToPurchase":74.6
+   },
+   {  
+      "type":"Tennis Balls",
+      "quantity":76,
+      "costToRent":6.46,
+      "costToPurchase":129.2
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":71,
+      "costToRent":5.53,
+      "costToPurchase":110.6
+   },
+   {  
+      "type":"Hats",
+      "quantity":96,
+      "costToRent":5.05,
+      "costToPurchase":101
+   },
+   {  
+      "type":"Spinning Plates",
+      "quantity":95,
+      "costToRent":4.56,
+      "costToPurchase":91.2
+   },
+   {  
+      "type":"Glitter",
+      "quantity":44,
+      "costToRent":5.2,
+      "costToPurchase":104
+   },
+   {  
+      "type":"Fabric Glue",
+      "quantity":94,
+      "costToRent":6.69,
+      "costToPurchase":133.8
+   },
+   {  
+      "type":"Rainbow Streamer",
+      "quantity":74,
+      "costToRent":0.09,
+      "costToPurchase":1.8
+   },
+   {  
+      "type":"Spinning Plates",
+      "quantity":68,
+      "costToRent":6.62,
+      "costToPurchase":132.4
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":96,
+      "costToRent":2.37,
+      "costToPurchase":47.4
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":89,
+      "costToRent":4,
+      "costToPurchase":80
+   },
+   {  
+      "type":"Pom Poms",
+      "quantity":30,
+      "costToRent":3.07,
+      "costToPurchase":61.4
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":94,
+      "costToRent":1.23,
+      "costToPurchase":24.6
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":0,
+      "costToRent":2.48,
+      "costToPurchase":49.6
+   },
+   {  
+      "type":"Glitter",
+      "quantity":11,
+      "costToRent":3.25,
+      "costToPurchase":65
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":30,
+      "costToRent":9.37,
+      "costToPurchase":187.4
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":76,
+      "costToRent":0.71,
+      "costToPurchase":14.2
+   },
+   {  
+      "type":"Glitter",
+      "quantity":42,
+      "costToRent":2.68,
+      "costToPurchase":53.6
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":73,
+      "costToRent":4.65,
+      "costToPurchase":93
+   },
+   {  
+      "type":"Juggling Scarves",
+      "quantity":70,
+      "costToRent":7.73,
+      "costToPurchase":154.6
+   },
+   {  
+      "type":"Juggling Balls",
+      "quantity":51,
+      "costToRent":4.86,
+      "costToPurchase":97.2
+   },
+   {  
+      "type":"Rainbow Streamer",
+      "quantity":77,
+      "costToRent":3.74,
+      "costToPurchase":74.8
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":23,
+      "costToRent":9.52,
+      "costToPurchase":190.4
+   },
+   {  
+      "type":"Juggling Scarves",
+      "quantity":91,
+      "costToRent":9.38,
+      "costToPurchase":187.6
+   },
+   {  
+      "type":"Hats",
+      "quantity":13,
+      "costToRent":4.77,
+      "costToPurchase":95.4
+   },
+   {  
+      "type":"Juggling Balls",
+      "quantity":83,
+      "costToRent":1.64,
+      "costToPurchase":32.8
+   },
+   {  
+      "type":"Diabolo",
+      "quantity":49,
+      "costToRent":7.73,
+      "costToPurchase":154.6
+   },
+   {  
+      "type":"Fabric Glue",
+      "quantity":98,
+      "costToRent":2.62,
+      "costToPurchase":52.4
+   },
+   {  
+      "type":"Rings",
+      "quantity":99,
+      "costToRent":5.32,
+      "costToPurchase":106.4
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":97,
+      "costToRent":8.64,
+      "costToPurchase":172.8
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":10,
+      "costToRent":1.14,
+      "costToPurchase":22.8
+   },
+   {  
+      "type":"Hats",
+      "quantity":56,
+      "costToRent":8.45,
+      "costToPurchase":169
+   },
+   {  
+      "type":"Tootsy Rolls",
+      "quantity":71,
+      "costToRent":3.34,
+      "costToPurchase":66.8
+   },
+   {  
+      "type":"Hats",
+      "quantity":54,
+      "costToRent":2.48,
+      "costToPurchase":49.6
+   },
+   {  
+      "type":"Juggling Scarves",
+      "quantity":10,
+      "costToRent":7.02,
+      "costToPurchase":140.4
+   },
+   {  
+      "type":"Poster Board",
+      "quantity":18,
+      "costToRent":0.8,
+      "costToPurchase":16
+   },
+   {  
+      "type":"Tootsy Rolls",
+      "quantity":41,
+      "costToRent":6.37,
+      "costToPurchase":127.4
+   },
+   {  
+      "type":"Rings",
+      "quantity":51,
+      "costToRent":1.43,
+      "costToPurchase":28.6
+   },
+   {  
+      "type":"Rings",
+      "quantity":88,
+      "costToRent":5.74,
+      "costToPurchase":114.8
+   },
+   {  
+      "type":"Juggling Balls",
+      "quantity":86,
+      "costToRent":0.19,
+      "costToPurchase":3.8
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":76,
+      "costToRent":3.38,
+      "costToPurchase":67.6
+   },
+   {  
+      "type":"Fabric Glue",
+      "quantity":55,
+      "costToRent":0.88,
+      "costToPurchase":17.6
+   },
+   {  
+      "type":"Spinning Plates",
+      "quantity":90,
+      "costToRent":4.56,
+      "costToPurchase":91.2
+   },
+   {  
+      "type":"Tennis Balls",
+      "quantity":14,
+      "costToRent":6.24,
+      "costToPurchase":124.8
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":9,
+      "costToRent":7.84,
+      "costToPurchase":156.8
+   },
+   {  
+      "type":"Pom Poms",
+      "quantity":22,
+      "costToRent":4.43,
+      "costToPurchase":88.6
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":65,
+      "costToRent":8.6,
+      "costToPurchase":172
+   },
+   {  
+      "type":"Fabric Markers",
+      "quantity":34,
+      "costToRent":6.91,
+      "costToPurchase":138.2
+   },
+   {  
+      "type":"Fabric Glue",
+      "quantity":6,
+      "costToRent":9.33,
+      "costToPurchase":186.6
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":14,
+      "costToRent":6.09,
+      "costToPurchase":121.8
+   },
+   {  
+      "type":"Hats",
+      "quantity":98,
+      "costToRent":2.67,
+      "costToPurchase":53.4
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":90,
+      "costToRent":3.62,
+      "costToPurchase":72.4
+   },
+   {  
+      "type":"Juggling Rings",
+      "quantity":5,
+      "costToRent":9.65,
+      "costToPurchase":193
+   },
+   {  
+      "type":"Tootsy Rolls",
+      "quantity":83,
+      "costToRent":6.77,
+      "costToPurchase":135.4
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":23,
+      "costToRent":9.1,
+      "costToPurchase":182
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":50,
+      "costToRent":0.85,
+      "costToPurchase":17
+   },
+   {  
+      "type":"Spinning Plates",
+      "quantity":72,
+      "costToRent":2.45,
+      "costToPurchase":49
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":18,
+      "costToRent":6.75,
+      "costToPurchase":135
+   },
+   {  
+      "type":"Rainbow Streamer",
+      "quantity":65,
+      "costToRent":5.35,
+      "costToPurchase":107
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":2,
+      "costToRent":0.44,
+      "costToPurchase":8.8
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":87,
+      "costToRent":1.13,
+      "costToPurchase":22.6
+   },
+   {  
+      "type":"Tickets",
+      "quantity":42,
+      "costToRent":4.29,
+      "costToPurchase":85.8
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":94,
+      "costToRent":3.9,
+      "costToPurchase":78
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":16,
+      "costToRent":5.09,
+      "costToPurchase":101.8
+   },
+   {  
+      "type":"Pom Poms",
+      "quantity":85,
+      "costToRent":2.12,
+      "costToPurchase":42.4
+   },
+   {  
+      "type":"Pom Poms",
+      "quantity":25,
+      "costToRent":2.75,
+      "costToPurchase":55
+   },
+   {  
+      "type":"Circus Stickers",
+      "quantity":6,
+      "costToRent":1.82,
+      "costToPurchase":36.4
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":41,
+      "costToRent":0.18,
+      "costToPurchase":3.6
+   },
+   {  
+      "type":"Pom Poms",
+      "quantity":49,
+      "costToRent":1.28,
+      "costToPurchase":25.6
+   },
+   {  
+      "type":"Tootsy Rolls",
+      "quantity":96,
+      "costToRent":1.44,
+      "costToPurchase":28.8
+   },
+   {  
+      "type":"Juggling Scarves",
+      "quantity":42,
+      "costToRent":7.9,
+      "costToPurchase":158
+   },
+   {  
+      "type":"Fabric Glue",
+      "quantity":35,
+      "costToRent":5.58,
+      "costToPurchase":111.6
+   },
+   {  
+      "type":"Juggling Rings",
+      "quantity":42,
+      "costToRent":5.35,
+      "costToPurchase":107
+   },
+   {  
+      "type":"Hoola Hoop",
+      "quantity":90,
+      "costToRent":1.45,
+      "costToPurchase":29
+   },
+   {  
+      "type":"Diabolo",
+      "quantity":28,
+      "costToRent":9.68,
+      "costToPurchase":193.6
+   },
+   {  
+      "type":"Fabric Markers",
+      "quantity":74,
+      "costToRent":5.76,
+      "costToPurchase":115.2
+   },
+   {  
+      "type":"Diabolo",
+      "quantity":13,
+      "costToRent":7.61,
+      "costToPurchase":152.2
+   },
+   {  
+      "type":"Red Noses",
+      "quantity":85,
+      "costToRent":9.76,
+      "costToPurchase":195.2
+   },
+   {  
+      "type":"Tootsy Rolls",
+      "quantity":91,
+      "costToRent":1.32,
+      "costToPurchase":26.4
+   },
+   {  
+      "type":"Pom Poms",
+      "quantity":28,
+      "costToRent":8.56,
+      "costToPurchase":171.2
+   },
+   {  
+      "type":"Butcher Paper",
+      "quantity":84,
+      "costToRent":1.68,
+      "costToPurchase":33.6
+   },
+   {  
+      "type":"Rainbow Streamer",
+      "quantity":14,
+      "costToRent":5.75,
+      "costToPurchase":115
+   },
+   {  
+      "type":"Diabolo",
+      "quantity":79,
+      "costToRent":7.93,
+      "costToPurchase":158.6
+   }
+]
