@@ -1,0 +1,15 @@
+library("ggplot2")
+k = read.csv("lesson_plan_schedules.txt", head=F)
+g1 = ggplot(k) + geom_segment(aes(x=V1, xend=V2, y=V3, yend=V3, color=V4), size=1.5)
+g1 = g1 + geom_point(aes(x=V1, y=V3, yend=V3, color=V4), size=2.0)
+g1 = g1 + geom_point(aes(x=V2, y=V3, yend=V3, color=V4), size=2.0)
+g1 = g1 + xlab("Time") + ylab("Z order");
+g1 = g1 + scale_color_discrete(name="Lesson Plan")
+ggsave(g1, filename="LessonPlan.png", dpi=100, width=5, height=3)
+
+k1 = read.csv("remaining_items.txt", head=F)
+g2 = ggplot(k1) + geom_line(aes(x=V1, y=V2, color=V3))
+g2 = g2 + geom_point(aes(x=V1, y=V2, color=V3))
+g2 = g2 + xlab("Time") + ylab("Remaining Inventory Count")
+g2 = g2 + scale_color_discrete(name="Inventory Item")
+ggsave(g2, filename="RemainingInventory.png", dpi=100, width=5, height=3)

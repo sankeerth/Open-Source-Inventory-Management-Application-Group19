@@ -1,0 +1,11 @@
+Readme of the Program Scheduler.
+
+The Program Scheduler takes Inventory description and Lesson Plan description as inputs and generates a schedule for the lessons.
+
+01:53: The Program Scheduler now contains only 1 test case with dummy data ...
+
+How to use it:
+
+$ python scheduler.py
+$ Rscript visualize.R
+Then check out the generated images. Hoho
