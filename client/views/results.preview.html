@@ -1,0 +1,10 @@
+<div ng-if="results"><h2>Search Results</h2>
+    <p ng-show="results.length === 0">
+        <i>* no results found *</i>
+    </p>
+    <div class="row" ng-repeat="result in results">
+    	<!-- <div class="row" ng-repeat = "alt in result.ranks"> -->
+        	<a ng-href = {{result}} target = "_blank">{{result}}</a></a> </h3>
+    	<!-- </div> -->
+    </div>
+</div>
